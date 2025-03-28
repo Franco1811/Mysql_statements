@@ -18,3 +18,6 @@ lineas */
 --https://www.w3schools.com/MySQL/mysql_min_max.asp
 
 #mysql lenguaje de consulta de base de datos
+
+
+#SON COMANDOS DE LECTURA

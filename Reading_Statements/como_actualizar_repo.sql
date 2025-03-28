@@ -1,0 +1,2 @@
+--creas nueva ventana (new windown)
+--Luego añades la informacion que querias actualizar
